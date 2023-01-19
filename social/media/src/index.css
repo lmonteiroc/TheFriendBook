@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Lato:wght@300&display=swap');
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgba(108, 237, 247, 0.89);
+  color: white;
+  text-align: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    color: white;
+}
+
+
+
+h1{
+  font-family: 'Fredoka One', cursive;
+}
+
+textarea {
+  color: white;
+  width: 100%;
+  height: 150px;
+  padding: 12px;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 4px;
+  background-color: rgba(94, 83, 83, 0.349);
+  resize: none;
+}
+
+#addBtn{
+  padding: 10px;
+  margin: 10px;
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+.post{
+  padding: 12px;
+  margin: 12px;
+  text-align: justify;
+  background-color: lavenderblush;
+  font-family: 'Lato', sans-serif;
+  color: white;
+  background-color: rgba(94, 83, 83, 0.349);
+}
+
+#new{
+  color: white;
+  padding: 12px;
+  margin: 12px;
+  background-color: rgba(89, 179, 37, 0.801);
+}
+
+#notification{
+  color: white;
+  padding: 12px;
+  margin: 12px;
+  background-color: rgba(255, 80, 80, 0.651);
+}
